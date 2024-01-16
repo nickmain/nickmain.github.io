@@ -14,4 +14,4 @@ Remote, or with occasional on-site meetings in California.
 
 ### Projects
 
-* [SQLite - a minimal Swift wrapper for SQLite](https://hello.nickmain.com/SQLight/documentation/sqlight/)
+* [SQLight - a minimal Swift wrapper for SQLite](https://hello.nickmain.com/SQLight/documentation/sqlight/)
