@@ -6,7 +6,8 @@ Remote, or with occasional on-site meetings in California.
 ---
 
 * [Micro.blog](https://nick-main.micro.blog)
-* Mastodon: `@nickmain@mas.to` | `@nick_main@micro.blog`
+* Mastodon: `@nickmain@mas.to`
+* Micro.Blog: `@nick_main@micro.blog`
 * [Old blog](http://epistemologicalengineering.blogspot.com)
 
 ---
