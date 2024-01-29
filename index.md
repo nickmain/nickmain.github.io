@@ -15,4 +15,4 @@ Remote, or hybrid in Southern California.
 ### Projects
 
 * [SQLight - a minimal Swift wrapper for SQLite](https://hello.nickmain.com/SQLight/documentation/sqlight/)
-* [Swift Macros to help with Codable conformance](https://hello.nickmain.com/Codability/documentation/codability)
+* [Swift Macros and Property Wrappers to help with Codable conformance](https://hello.nickmain.com/Codability/documentation/codability)
