@@ -5,6 +5,7 @@ Remote, or hybrid in Southern California.
 
 ---
 
+* [Github](https://github.com/nickmain)
 * [Micro.blog](https://nick-main.micro.blog)
 * Mastodon: `@nickmain@mas.to`
 * Micro.Blog: `@nick_main@micro.blog`
