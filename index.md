@@ -2,6 +2,7 @@ I am currently looking for a Senior iOS Engineer position.
 Remote, or hybrid in Southern California.
 
 * [Linked In](https://www.linkedin.com/in/davidnickmain/)
+* [Resume](https://github.com/nickmain/nickmain.github.io/blob/primary/assets/resume2024-redacted.pdf)
 
 ---
 
